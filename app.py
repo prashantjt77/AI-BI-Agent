@@ -375,7 +375,7 @@ with tab_chat:
 
     if st.button("🚀 Run Agent", type="primary", use_container_width=True):
         with st.spinner("MediCore AI analyzing..."):
-            openai_key = None
+            openai_key = AQ.Ab8RN6IYHtT7g9tXZayjjNFmUOjdd5f-GUs-YssFgjRgUupXDA
             try:
                 openai_key = st.secrets["OPENAI_API_KEY"]
             except:
