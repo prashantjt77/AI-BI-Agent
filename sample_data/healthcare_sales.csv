@@ -1,0 +1,73 @@
+Date,Product,Country,Region,Sales_USD,Quantity,Margin_Pct,Distributor
+2023-01-31,Docetaxel,Brazil,LATAM,125000,300,22,MedSupply
+2023-02-28,Docetaxel,USA,North America,122000,305,23,PharmaCorp
+2023-03-31,Docetaxel,Germany,EU,124000,310,24,LifeCare
+2023-04-30,Docetaxel,India,APAC,126000,315,25,GlobalMeds
+2023-05-31,Docetaxel,Brazil,LATAM,133000,320,26,MedSupply
+2023-06-30,Docetaxel,USA,North America,130000,325,22,PharmaCorp
+2023-07-31,Docetaxel,Germany,EU,132000,330,23,LifeCare
+2023-08-31,Docetaxel,India,APAC,134000,335,24,GlobalMeds
+2023-09-30,Docetaxel,Brazil,LATAM,141000,340,25,MedSupply
+2023-10-31,Docetaxel,USA,North America,138000,345,26,PharmaCorp
+2023-11-30,Docetaxel,Germany,EU,140000,350,22,LifeCare
+2023-12-31,Docetaxel,India,APAC,142000,355,23,GlobalMeds
+2024-01-31,Docetaxel,Brazil,LATAM,149000,360,24,MedSupply
+2024-02-29,Docetaxel,USA,North America,146000,365,25,PharmaCorp
+2024-03-31,Docetaxel,Germany,EU,148000,370,26,LifeCare
+2024-04-30,Docetaxel,India,APAC,150000,375,22,GlobalMeds
+2024-05-31,Docetaxel,Brazil,LATAM,157000,380,23,MedSupply
+2024-06-30,Docetaxel,USA,North America,154000,385,24,PharmaCorp
+2024-07-31,Docetaxel,Germany,EU,156000,390,25,LifeCare
+2024-08-31,Docetaxel,India,APAC,158000,395,26,GlobalMeds
+2024-09-30,Docetaxel,Brazil,LATAM,165000,400,22,MedSupply
+2024-10-31,Docetaxel,USA,North America,162000,405,23,PharmaCorp
+2024-11-30,Docetaxel,Germany,EU,164000,410,24,LifeCare
+2024-12-31,Docetaxel,India,APAC,166000,415,25,GlobalMeds
+2023-01-31,Propofol,Brazil,LATAM,173000,420,26,MedSupply
+2023-02-28,Propofol,USA,North America,170000,425,22,PharmaCorp
+2023-03-31,Propofol,Germany,EU,172000,430,23,LifeCare
+2023-04-30,Propofol,India,APAC,174000,435,24,GlobalMeds
+2023-05-31,Propofol,Brazil,LATAM,181000,440,25,MedSupply
+2023-06-30,Propofol,USA,North America,178000,445,26,PharmaCorp
+2023-07-31,Propofol,Germany,EU,180000,450,22,LifeCare
+2023-08-31,Propofol,India,APAC,182000,455,23,GlobalMeds
+2023-09-30,Propofol,Brazil,LATAM,189000,460,24,MedSupply
+2023-10-31,Propofol,USA,North America,186000,465,25,PharmaCorp
+2023-11-30,Propofol,Germany,EU,188000,470,26,LifeCare
+2023-12-31,Propofol,India,APAC,190000,475,22,GlobalMeds
+2024-01-31,Propofol,Brazil,LATAM,197000,480,23,MedSupply
+2024-02-29,Propofol,USA,North America,194000,485,24,PharmaCorp
+2024-03-31,Propofol,Germany,EU,196000,490,25,LifeCare
+2024-04-30,Propofol,India,APAC,198000,495,26,GlobalMeds
+2024-05-31,Propofol,Brazil,LATAM,205000,500,22,MedSupply
+2024-06-30,Propofol,USA,North America,202000,505,23,PharmaCorp
+2024-07-31,Propofol,Germany,EU,204000,510,24,LifeCare
+2024-08-31,Propofol,India,APAC,206000,515,25,GlobalMeds
+2024-09-30,Propofol,Brazil,LATAM,213000,520,26,MedSupply
+2024-10-31,Propofol,USA,North America,210000,525,22,PharmaCorp
+2024-11-30,Propofol,Germany,EU,212000,530,23,LifeCare
+2024-12-31,Propofol,India,APAC,214000,535,24,GlobalMeds
+2023-01-31,Bortezomib,Brazil,LATAM,221000,540,25,MedSupply
+2023-02-28,Bortezomib,USA,North America,218000,545,26,PharmaCorp
+2023-03-31,Bortezomib,Germany,EU,220000,550,22,LifeCare
+2023-04-30,Bortezomib,India,APAC,222000,555,23,GlobalMeds
+2023-05-31,Bortezomib,Brazil,LATAM,229000,560,24,MedSupply
+2023-06-30,Bortezomib,USA,North America,226000,565,25,PharmaCorp
+2023-07-31,Bortezomib,Germany,EU,228000,570,26,LifeCare
+2023-08-31,Bortezomib,India,APAC,230000,575,22,GlobalMeds
+2023-09-30,Bortezomib,Brazil,LATAM,237000,580,23,MedSupply
+2023-10-31,Bortezomib,USA,North America,234000,585,24,PharmaCorp
+2023-11-30,Bortezomib,Germany,EU,236000,590,25,LifeCare
+2023-12-31,Bortezomib,India,APAC,238000,595,26,GlobalMeds
+2024-01-31,Bortezomib,Brazil,LATAM,245000,600,22,MedSupply
+2024-02-29,Bortezomib,USA,North America,242000,605,23,PharmaCorp
+2024-03-31,Bortezomib,Germany,EU,244000,610,24,LifeCare
+2024-04-30,Bortezomib,India,APAC,246000,615,25,GlobalMeds
+2024-05-31,Bortezomib,Brazil,LATAM,253000,620,26,MedSupply
+2024-06-30,Bortezomib,USA,North America,250000,625,22,PharmaCorp
+2024-07-31,Bortezomib,Germany,EU,252000,630,23,LifeCare
+2024-08-31,Bortezomib,India,APAC,254000,635,24,GlobalMeds
+2024-09-30,Bortezomib,Brazil,LATAM,261000,640,25,MedSupply
+2024-10-31,Bortezomib,USA,North America,258000,645,26,PharmaCorp
+2024-11-30,Bortezomib,Germany,EU,260000,650,22,LifeCare
+2024-12-31,Bortezomib,India,APAC,262000,655,23,GlobalMeds
