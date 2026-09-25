@@ -1,0 +1,101 @@
+Drug_ID,Drug_Name,Stock,Expiry_Days,Supplier,Cost
+DRG001,Azithral,558,512,Cipla,1361
+DRG002,Pantocid,0,113,Sun Pharma,3241
+DRG003,Glycomet,89,48,Sun Pharma,2588
+DRG004,Crocin,653,207,Dr Reddy,4033
+DRG005,Azithral,319,588,Sun Pharma,4597
+DRG006,Crocin,549,400,Alkem,214
+DRG007,Crocin,804,188,Sun Pharma,4327
+DRG008,Glycomet,893,563,Sun Pharma,872
+DRG009,Pantocid,138,457,Alkem,993
+DRG010,Crocin,510,509,Cipla,4475
+DRG011,Azithral,867,24,Cipla,824
+DRG012,Lipitor,844,298,Alkem,2248
+DRG013,Crocin,258,487,Dr Reddy,3206
+DRG014,Crocin,672,240,Sun Pharma,4292
+DRG015,Glycomet,901,429,Alkem,3745
+DRG016,Pantocid,689,166,Sun Pharma,3502
+DRG017,Lipitor,9,559,Dr Reddy,964
+DRG018,Azithral,260,450,Sun Pharma,1358
+DRG019,Lipitor,918,106,Alkem,4227
+DRG020,Azithral,649,420,Sun Pharma,563
+DRG021,Pantocid,171,298,Cipla,1970
+DRG022,Azithral,897,263,Dr Reddy,3644
+DRG023,Glycomet,12,205,Dr Reddy,4891
+DRG024,Glycomet,167,531,Dr Reddy,1459
+DRG025,Glycomet,641,526,Alkem,4852
+DRG026,Glycomet,595,127,Dr Reddy,4616
+DRG027,Lipitor,320,168,Cipla,3240
+DRG028,Pantocid,318,237,Alkem,4541
+DRG029,Azithral,612,225,Cipla,1605
+DRG030,Azithral,328,24,Sun Pharma,854
+DRG031,Glycomet,784,166,Sun Pharma,1329
+DRG032,Glycomet,776,270,Sun Pharma,3627
+DRG033,Crocin,970,166,Sun Pharma,2951
+DRG034,Pantocid,910,56,Cipla,1437
+DRG035,Lipitor,919,333,Alkem,4738
+DRG036,Azithral,549,139,Alkem,2811
+DRG037,Crocin,418,420,Dr Reddy,2729
+DRG038,Crocin,605,104,Cipla,2156
+DRG039,Azithral,94,301,Sun Pharma,4273
+DRG040,Lipitor,816,292,Cipla,4881
+DRG041,Crocin,580,78,Dr Reddy,2818
+DRG042,Crocin,317,20,Dr Reddy,4003
+DRG043,Pantocid,955,263,Cipla,3236
+DRG044,Lipitor,235,559,Cipla,3330
+DRG045,Crocin,945,143,Cipla,2623
+DRG046,Lipitor,333,32,Alkem,4666
+DRG047,Azithral,884,355,Sun Pharma,2649
+DRG048,Glycomet,375,311,Cipla,4083
+DRG049,Crocin,458,372,Cipla,286
+DRG050,Pantocid,136,405,Cipla,1354
+DRG051,Azithral,929,227,Dr Reddy,3480
+DRG052,Lipitor,587,150,Dr Reddy,1351
+DRG053,Azithral,994,219,Alkem,2591
+DRG054,Crocin,546,469,Sun Pharma,2101
+DRG055,Lipitor,512,365,Alkem,491
+DRG056,Glycomet,295,333,Sun Pharma,2126
+DRG057,Azithral,319,142,Dr Reddy,3230
+DRG058,Crocin,917,136,Dr Reddy,2707
+DRG059,Pantocid,571,115,Dr Reddy,3848
+DRG060,Lipitor,831,387,Alkem,854
+DRG061,Azithral,348,60,Cipla,124
+DRG062,Azithral,839,38,Cipla,2225
+DRG063,Glycomet,778,471,Dr Reddy,3974
+DRG064,Glycomet,872,305,Cipla,2139
+DRG065,Pantocid,228,306,Cipla,90
+DRG066,Pantocid,269,416,Alkem,2131
+DRG067,Crocin,827,414,Sun Pharma,4733
+DRG068,Crocin,797,355,Dr Reddy,1672
+DRG069,Pantocid,290,429,Dr Reddy,391
+DRG070,Pantocid,724,191,Alkem,4102
+DRG071,Lipitor,164,10,Alkem,2124
+DRG072,Glycomet,4,576,Cipla,695
+DRG073,Crocin,850,380,Dr Reddy,4876
+DRG074,Glycomet,378,440,Sun Pharma,4313
+DRG075,Glycomet,77,318,Alkem,659
+DRG076,Pantocid,409,146,Sun Pharma,504
+DRG077,Lipitor,573,211,Sun Pharma,3003
+DRG078,Azithral,131,445,Dr Reddy,1758
+DRG079,Lipitor,600,322,Dr Reddy,3522
+DRG080,Lipitor,748,126,Alkem,3019
+DRG081,Glycomet,41,584,Dr Reddy,3078
+DRG082,Lipitor,88,253,Dr Reddy,4847
+DRG083,Crocin,401,546,Dr Reddy,2731
+DRG084,Glycomet,295,84,Sun Pharma,3679
+DRG085,Crocin,839,395,Alkem,4275
+DRG086,Azithral,294,219,Cipla,3117
+DRG087,Glycomet,615,484,Sun Pharma,1436
+DRG088,Azithral,525,427,Dr Reddy,3826
+DRG089,Glycomet,799,356,Sun Pharma,2916
+DRG090,Pantocid,690,538,Dr Reddy,4838
+DRG091,Lipitor,636,188,Dr Reddy,3413
+DRG092,Pantocid,421,191,Sun Pharma,4939
+DRG093,Azithral,864,34,Alkem,4174
+DRG094,Lipitor,22,189,Dr Reddy,198
+DRG095,Glycomet,574,510,Alkem,3900
+DRG096,Lipitor,142,170,Cipla,2108
+DRG097,Crocin,992,186,Dr Reddy,1186
+DRG098,Lipitor,664,294,Alkem,236
+DRG099,Crocin,144,72,Alkem,2904
+DRG100,Lipitor,224,165,Cipla,1300

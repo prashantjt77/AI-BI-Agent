@@ -1,0 +1,8 @@
+streamlit>=1.36.0
+pandas
+numpy
+plotly
+openpyxl
+openai
+langchain-openai
+langchain-google-genai
