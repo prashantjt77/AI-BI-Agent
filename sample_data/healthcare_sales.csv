@@ -1,0 +1,601 @@
+Date,Month,Product,Country,Region,Distributor,Sales_USD,Quantity,Margin_Pct,Batch_Yield_Pct
+2023-01-31,2023-01,Docetaxel,USA,North America,LifeCare Distributors,226867,470,26.6,94.9
+2023-01-31,2023-01,Docetaxel,Germany,EU,LifeCare Distributors,217337,666,14.0,93.3
+2023-01-31,2023-01,Docetaxel,Brazil,LATAM,MedSupply Global,96023,330,12.4,99.2
+2023-01-31,2023-01,Docetaxel,India,APAC,GlobalMeds,144925,585,15.6,90.1
+2023-01-31,2023-01,Docetaxel,UK,EU,GlobalMeds,165305,221,12.1,88.3
+2023-01-31,2023-01,Propofol,USA,North America,LifeCare Distributors,236730,710,14.8,91.4
+2023-01-31,2023-01,Propofol,Germany,EU,GlobalMeds,145725,762,19.6,99.3
+2023-01-31,2023-01,Propofol,Brazil,LATAM,MedSupply Global,91394,684,24.2,90.0
+2023-01-31,2023-01,Propofol,India,APAC,LifeCare Distributors,167313,587,30.8,94.5
+2023-01-31,2023-01,Propofol,UK,EU,PharmaCorp,234969,764,16.6,90.8
+2023-01-31,2023-01,Bortezomib,USA,North America,GlobalMeds,204358,627,21.9,88.4
+2023-01-31,2023-01,Bortezomib,Germany,EU,PharmaCorp,115920,761,25.3,91.6
+2023-01-31,2023-01,Bortezomib,Brazil,LATAM,PharmaCorp,158953,676,31.4,96.9
+2023-01-31,2023-01,Bortezomib,India,APAC,PharmaCorp,117065,469,26.5,91.8
+2023-01-31,2023-01,Bortezomib,UK,EU,PharmaCorp,171387,495,28.9,96.6
+2023-01-31,2023-01,Anastrozole,USA,North America,LifeCare Distributors,89268,416,17.6,94.2
+2023-01-31,2023-01,Anastrozole,Germany,EU,MedSupply Global,118044,214,15.3,88.2
+2023-01-31,2023-01,Anastrozole,Brazil,LATAM,MedSupply Global,200151,328,16.0,88.1
+2023-01-31,2023-01,Anastrozole,India,APAC,LifeCare Distributors,119504,591,26.6,96.9
+2023-01-31,2023-01,Anastrozole,UK,EU,MedSupply Global,214633,430,25.0,98.5
+2023-01-31,2023-01,Carboplatin,USA,North America,MedSupply Global,110535,232,13.3,91.6
+2023-01-31,2023-01,Carboplatin,Germany,EU,GlobalMeds,203684,298,23.8,91.2
+2023-01-31,2023-01,Carboplatin,Brazil,LATAM,LifeCare Distributors,193252,661,29.0,96.3
+2023-01-31,2023-01,Carboplatin,India,APAC,LifeCare Distributors,217982,597,21.9,94.0
+2023-01-31,2023-01,Carboplatin,UK,EU,LifeCare Distributors,202409,660,16.0,98.3
+2023-02-28,2023-02,Docetaxel,USA,North America,MedSupply Global,187059,295,25.9,89.6
+2023-02-28,2023-02,Docetaxel,Germany,EU,LifeCare Distributors,244899,724,13.5,91.3
+2023-02-28,2023-02,Docetaxel,Brazil,LATAM,PharmaCorp,233371,777,24.5,91.4
+2023-02-28,2023-02,Docetaxel,India,APAC,MedSupply Global,82693,227,16.4,92.8
+2023-02-28,2023-02,Docetaxel,UK,EU,PharmaCorp,232906,705,14.4,92.1
+2023-02-28,2023-02,Propofol,USA,North America,PharmaCorp,103776,584,16.6,92.9
+2023-02-28,2023-02,Propofol,Germany,EU,GlobalMeds,207948,458,12.1,93.9
+2023-02-28,2023-02,Propofol,Brazil,LATAM,MedSupply Global,199101,424,14.4,91.9
+2023-02-28,2023-02,Propofol,India,APAC,LifeCare Distributors,153530,573,16.4,94.4
+2023-02-28,2023-02,Propofol,UK,EU,GlobalMeds,131005,696,17.1,90.8
+2023-02-28,2023-02,Bortezomib,USA,North America,LifeCare Distributors,234736,280,17.3,99.2
+2023-02-28,2023-02,Bortezomib,Germany,EU,GlobalMeds,192181,424,24.7,95.8
+2023-02-28,2023-02,Bortezomib,Brazil,LATAM,MedSupply Global,130859,615,23.9,88.9
+2023-02-28,2023-02,Bortezomib,India,APAC,GlobalMeds,198906,600,26.6,92.2
+2023-02-28,2023-02,Bortezomib,UK,EU,GlobalMeds,186081,397,20.0,97.4
+2023-02-28,2023-02,Anastrozole,USA,North America,GlobalMeds,236256,400,18.4,90.1
+2023-02-28,2023-02,Anastrozole,Germany,EU,MedSupply Global,171906,602,26.2,97.3
+2023-02-28,2023-02,Anastrozole,Brazil,LATAM,GlobalMeds,213983,688,25.8,92.4
+2023-02-28,2023-02,Anastrozole,India,APAC,PharmaCorp,91111,672,16.2,94.2
+2023-02-28,2023-02,Anastrozole,UK,EU,PharmaCorp,110306,462,25.2,97.4
+2023-02-28,2023-02,Carboplatin,USA,North America,MedSupply Global,227443,771,17.2,99.5
+2023-02-28,2023-02,Carboplatin,Germany,EU,PharmaCorp,100932,236,29.7,90.2
+2023-02-28,2023-02,Carboplatin,Brazil,LATAM,MedSupply Global,197858,407,29.9,98.2
+2023-02-28,2023-02,Carboplatin,India,APAC,GlobalMeds,139040,786,30.7,97.0
+2023-02-28,2023-02,Carboplatin,UK,EU,GlobalMeds,206063,709,30.8,99.2
+2023-03-31,2023-03,Docetaxel,USA,North America,PharmaCorp,101357,537,21.7,93.2
+2023-03-31,2023-03,Docetaxel,Germany,EU,MedSupply Global,192296,360,12.4,93.7
+2023-03-31,2023-03,Docetaxel,Brazil,LATAM,GlobalMeds,215059,703,25.0,97.8
+2023-03-31,2023-03,Docetaxel,India,APAC,MedSupply Global,150271,232,22.9,93.9
+2023-03-31,2023-03,Docetaxel,UK,EU,PharmaCorp,99830,221,16.9,99.2
+2023-03-31,2023-03,Propofol,USA,North America,MedSupply Global,156213,482,20.7,92.0
+2023-03-31,2023-03,Propofol,Germany,EU,MedSupply Global,187455,680,15.9,96.3
+2023-03-31,2023-03,Propofol,Brazil,LATAM,LifeCare Distributors,182946,391,24.9,90.0
+2023-03-31,2023-03,Propofol,India,APAC,GlobalMeds,229661,676,17.6,98.2
+2023-03-31,2023-03,Propofol,UK,EU,GlobalMeds,143208,236,30.6,92.9
+2023-03-31,2023-03,Bortezomib,USA,North America,MedSupply Global,195294,298,31.6,88.9
+2023-03-31,2023-03,Bortezomib,Germany,EU,MedSupply Global,195668,360,18.3,89.9
+2023-03-31,2023-03,Bortezomib,Brazil,LATAM,MedSupply Global,243817,765,25.9,94.6
+2023-03-31,2023-03,Bortezomib,India,APAC,GlobalMeds,152991,354,17.9,91.7
+2023-03-31,2023-03,Bortezomib,UK,EU,GlobalMeds,185864,445,19.2,91.4
+2023-03-31,2023-03,Anastrozole,USA,North America,LifeCare Distributors,109592,607,30.3,93.9
+2023-03-31,2023-03,Anastrozole,Germany,EU,MedSupply Global,190627,219,25.0,96.1
+2023-03-31,2023-03,Anastrozole,Brazil,LATAM,GlobalMeds,167922,670,12.6,94.7
+2023-03-31,2023-03,Anastrozole,India,APAC,GlobalMeds,222038,250,21.3,94.2
+2023-03-31,2023-03,Anastrozole,UK,EU,MedSupply Global,102677,513,29.2,90.9
+2023-03-31,2023-03,Carboplatin,USA,North America,PharmaCorp,207813,253,22.7,91.8
+2023-03-31,2023-03,Carboplatin,Germany,EU,GlobalMeds,230580,771,16.3,95.2
+2023-03-31,2023-03,Carboplatin,Brazil,LATAM,GlobalMeds,243165,246,26.0,89.6
+2023-03-31,2023-03,Carboplatin,India,APAC,GlobalMeds,174476,569,22.3,91.7
+2023-03-31,2023-03,Carboplatin,UK,EU,MedSupply Global,153847,257,13.6,88.3
+2023-04-30,2023-04,Docetaxel,USA,North America,MedSupply Global,85949,326,25.9,92.7
+2023-04-30,2023-04,Docetaxel,Germany,EU,PharmaCorp,96896,295,23.0,96.2
+2023-04-30,2023-04,Docetaxel,Brazil,LATAM,GlobalMeds,194548,471,22.3,95.6
+2023-04-30,2023-04,Docetaxel,India,APAC,MedSupply Global,193429,446,13.0,94.5
+2023-04-30,2023-04,Docetaxel,UK,EU,LifeCare Distributors,224356,285,12.3,89.3
+2023-04-30,2023-04,Propofol,USA,North America,MedSupply Global,158832,293,29.1,96.1
+2023-04-30,2023-04,Propofol,Germany,EU,GlobalMeds,123919,417,27.3,97.3
+2023-04-30,2023-04,Propofol,Brazil,LATAM,GlobalMeds,136573,556,20.0,95.1
+2023-04-30,2023-04,Propofol,India,APAC,MedSupply Global,177379,379,19.5,95.2
+2023-04-30,2023-04,Propofol,UK,EU,PharmaCorp,89823,524,25.7,95.1
+2023-04-30,2023-04,Bortezomib,USA,North America,GlobalMeds,184182,457,12.5,94.7
+2023-04-30,2023-04,Bortezomib,Germany,EU,LifeCare Distributors,229143,579,14.6,97.3
+2023-04-30,2023-04,Bortezomib,Brazil,LATAM,LifeCare Distributors,183691,776,31.2,98.4
+2023-04-30,2023-04,Bortezomib,India,APAC,GlobalMeds,231836,596,16.3,92.3
+2023-04-30,2023-04,Bortezomib,UK,EU,MedSupply Global,172658,234,18.7,95.5
+2023-04-30,2023-04,Anastrozole,USA,North America,MedSupply Global,194585,617,17.2,93.7
+2023-04-30,2023-04,Anastrozole,Germany,EU,PharmaCorp,169588,692,30.7,88.5
+2023-04-30,2023-04,Anastrozole,Brazil,LATAM,MedSupply Global,140692,593,20.5,94.5
+2023-04-30,2023-04,Anastrozole,India,APAC,LifeCare Distributors,194352,298,20.3,92.3
+2023-04-30,2023-04,Anastrozole,UK,EU,LifeCare Distributors,245983,389,23.2,90.7
+2023-04-30,2023-04,Carboplatin,USA,North America,LifeCare Distributors,151180,478,27.1,89.2
+2023-04-30,2023-04,Carboplatin,Germany,EU,MedSupply Global,190448,261,21.9,92.5
+2023-04-30,2023-04,Carboplatin,Brazil,LATAM,MedSupply Global,146234,218,19.8,88.1
+2023-04-30,2023-04,Carboplatin,India,APAC,MedSupply Global,235538,275,19.1,99.0
+2023-04-30,2023-04,Carboplatin,UK,EU,LifeCare Distributors,243379,705,24.6,93.2
+2023-05-31,2023-05,Docetaxel,USA,North America,LifeCare Distributors,182795,224,23.1,90.4
+2023-05-31,2023-05,Docetaxel,Germany,EU,MedSupply Global,140566,343,27.8,89.0
+2023-05-31,2023-05,Docetaxel,Brazil,LATAM,PharmaCorp,101689,597,23.0,93.1
+2023-05-31,2023-05,Docetaxel,India,APAC,LifeCare Distributors,154460,434,26.1,99.1
+2023-05-31,2023-05,Docetaxel,UK,EU,MedSupply Global,234697,691,29.3,97.6
+2023-05-31,2023-05,Propofol,USA,North America,PharmaCorp,119081,592,28.4,96.1
+2023-05-31,2023-05,Propofol,Germany,EU,MedSupply Global,168092,364,16.7,94.7
+2023-05-31,2023-05,Propofol,Brazil,LATAM,MedSupply Global,237504,541,28.3,98.9
+2023-05-31,2023-05,Propofol,India,APAC,MedSupply Global,212396,331,19.0,96.1
+2023-05-31,2023-05,Propofol,UK,EU,LifeCare Distributors,106790,290,17.0,91.8
+2023-05-31,2023-05,Bortezomib,USA,North America,PharmaCorp,124482,372,12.2,93.4
+2023-05-31,2023-05,Bortezomib,Germany,EU,PharmaCorp,110355,675,27.3,97.5
+2023-05-31,2023-05,Bortezomib,Brazil,LATAM,LifeCare Distributors,132224,586,23.7,99.1
+2023-05-31,2023-05,Bortezomib,India,APAC,LifeCare Distributors,108016,608,29.4,90.6
+2023-05-31,2023-05,Bortezomib,UK,EU,PharmaCorp,116395,372,12.9,98.2
+2023-05-31,2023-05,Anastrozole,USA,North America,PharmaCorp,173396,402,30.4,90.9
+2023-05-31,2023-05,Anastrozole,Germany,EU,LifeCare Distributors,93843,640,22.5,95.2
+2023-05-31,2023-05,Anastrozole,Brazil,LATAM,PharmaCorp,132638,712,24.6,94.7
+2023-05-31,2023-05,Anastrozole,India,APAC,GlobalMeds,235576,211,31.2,88.7
+2023-05-31,2023-05,Anastrozole,UK,EU,PharmaCorp,205899,607,24.4,91.2
+2023-05-31,2023-05,Carboplatin,USA,North America,GlobalMeds,141529,515,23.7,88.9
+2023-05-31,2023-05,Carboplatin,Germany,EU,MedSupply Global,84835,701,12.6,91.2
+2023-05-31,2023-05,Carboplatin,Brazil,LATAM,MedSupply Global,137043,660,25.7,89.9
+2023-05-31,2023-05,Carboplatin,India,APAC,PharmaCorp,202402,452,30.8,92.8
+2023-05-31,2023-05,Carboplatin,UK,EU,MedSupply Global,130990,649,13.7,98.1
+2023-06-30,2023-06,Docetaxel,USA,North America,LifeCare Distributors,248964,318,20.2,96.9
+2023-06-30,2023-06,Docetaxel,Germany,EU,PharmaCorp,219487,438,15.0,94.8
+2023-06-30,2023-06,Docetaxel,Brazil,LATAM,LifeCare Distributors,100309,660,13.3,88.4
+2023-06-30,2023-06,Docetaxel,India,APAC,LifeCare Distributors,211456,604,13.1,97.9
+2023-06-30,2023-06,Docetaxel,UK,EU,MedSupply Global,178142,636,23.7,96.4
+2023-06-30,2023-06,Propofol,USA,North America,PharmaCorp,243273,282,16.9,93.2
+2023-06-30,2023-06,Propofol,Germany,EU,PharmaCorp,245888,250,17.5,90.4
+2023-06-30,2023-06,Propofol,Brazil,LATAM,MedSupply Global,117744,687,24.4,92.1
+2023-06-30,2023-06,Propofol,India,APAC,GlobalMeds,204454,353,22.0,93.5
+2023-06-30,2023-06,Propofol,UK,EU,LifeCare Distributors,174074,505,29.0,94.3
+2023-06-30,2023-06,Bortezomib,USA,North America,MedSupply Global,205917,600,14.7,88.3
+2023-06-30,2023-06,Bortezomib,Germany,EU,LifeCare Distributors,81252,777,28.1,98.4
+2023-06-30,2023-06,Bortezomib,Brazil,LATAM,GlobalMeds,158587,505,23.8,92.5
+2023-06-30,2023-06,Bortezomib,India,APAC,LifeCare Distributors,155745,507,22.9,93.2
+2023-06-30,2023-06,Bortezomib,UK,EU,LifeCare Distributors,150390,305,29.2,98.9
+2023-06-30,2023-06,Anastrozole,USA,North America,GlobalMeds,135479,600,21.8,91.0
+2023-06-30,2023-06,Anastrozole,Germany,EU,GlobalMeds,182468,745,24.4,92.0
+2023-06-30,2023-06,Anastrozole,Brazil,LATAM,PharmaCorp,247658,242,16.8,88.9
+2023-06-30,2023-06,Anastrozole,India,APAC,MedSupply Global,235286,382,23.7,92.6
+2023-06-30,2023-06,Anastrozole,UK,EU,GlobalMeds,104071,559,25.9,92.7
+2023-06-30,2023-06,Carboplatin,USA,North America,GlobalMeds,181570,292,31.5,94.9
+2023-06-30,2023-06,Carboplatin,Germany,EU,LifeCare Distributors,235026,204,18.9,92.0
+2023-06-30,2023-06,Carboplatin,Brazil,LATAM,PharmaCorp,159252,712,22.7,92.1
+2023-06-30,2023-06,Carboplatin,India,APAC,PharmaCorp,131745,277,18.6,91.7
+2023-06-30,2023-06,Carboplatin,UK,EU,PharmaCorp,221560,246,24.6,88.9
+2023-07-31,2023-07,Docetaxel,USA,North America,PharmaCorp,230334,247,13.2,91.2
+2023-07-31,2023-07,Docetaxel,Germany,EU,MedSupply Global,207600,452,31.7,94.2
+2023-07-31,2023-07,Docetaxel,Brazil,LATAM,GlobalMeds,191317,725,24.4,92.2
+2023-07-31,2023-07,Docetaxel,India,APAC,GlobalMeds,227820,725,15.0,89.5
+2023-07-31,2023-07,Docetaxel,UK,EU,LifeCare Distributors,98030,562,22.6,89.2
+2023-07-31,2023-07,Propofol,USA,North America,PharmaCorp,168869,214,14.1,96.5
+2023-07-31,2023-07,Propofol,Germany,EU,GlobalMeds,81062,472,16.2,91.8
+2023-07-31,2023-07,Propofol,Brazil,LATAM,GlobalMeds,84632,344,18.9,93.5
+2023-07-31,2023-07,Propofol,India,APAC,PharmaCorp,162152,308,21.6,94.7
+2023-07-31,2023-07,Propofol,UK,EU,PharmaCorp,92910,568,23.3,92.4
+2023-07-31,2023-07,Bortezomib,USA,North America,MedSupply Global,128447,642,19.1,99.3
+2023-07-31,2023-07,Bortezomib,Germany,EU,MedSupply Global,239096,488,12.2,90.6
+2023-07-31,2023-07,Bortezomib,Brazil,LATAM,PharmaCorp,152303,715,29.0,89.0
+2023-07-31,2023-07,Bortezomib,India,APAC,PharmaCorp,224990,336,13.6,94.0
+2023-07-31,2023-07,Bortezomib,UK,EU,GlobalMeds,84324,747,31.9,98.3
+2023-07-31,2023-07,Anastrozole,USA,North America,GlobalMeds,239818,203,12.1,99.2
+2023-07-31,2023-07,Anastrozole,Germany,EU,PharmaCorp,93234,773,30.6,94.4
+2023-07-31,2023-07,Anastrozole,Brazil,LATAM,GlobalMeds,126514,372,27.4,90.2
+2023-07-31,2023-07,Anastrozole,India,APAC,PharmaCorp,144323,424,26.7,94.1
+2023-07-31,2023-07,Anastrozole,UK,EU,MedSupply Global,184537,519,13.7,93.8
+2023-07-31,2023-07,Carboplatin,USA,North America,LifeCare Distributors,185292,458,13.0,91.9
+2023-07-31,2023-07,Carboplatin,Germany,EU,PharmaCorp,162180,371,16.0,95.9
+2023-07-31,2023-07,Carboplatin,Brazil,LATAM,GlobalMeds,88512,518,25.6,96.7
+2023-07-31,2023-07,Carboplatin,India,APAC,LifeCare Distributors,173070,749,20.2,92.0
+2023-07-31,2023-07,Carboplatin,UK,EU,MedSupply Global,163524,517,26.9,92.7
+2023-08-31,2023-08,Docetaxel,USA,North America,MedSupply Global,219639,658,30.8,90.1
+2023-08-31,2023-08,Docetaxel,Germany,EU,LifeCare Distributors,216487,519,23.5,97.7
+2023-08-31,2023-08,Docetaxel,Brazil,LATAM,GlobalMeds,138596,469,28.0,97.5
+2023-08-31,2023-08,Docetaxel,India,APAC,MedSupply Global,230354,578,24.7,98.4
+2023-08-31,2023-08,Docetaxel,UK,EU,MedSupply Global,94060,241,19.8,97.4
+2023-08-31,2023-08,Propofol,USA,North America,LifeCare Distributors,240359,725,30.0,95.2
+2023-08-31,2023-08,Propofol,Germany,EU,MedSupply Global,182974,342,23.5,92.1
+2023-08-31,2023-08,Propofol,Brazil,LATAM,LifeCare Distributors,229453,303,24.5,89.3
+2023-08-31,2023-08,Propofol,India,APAC,PharmaCorp,176646,378,18.7,89.6
+2023-08-31,2023-08,Propofol,UK,EU,LifeCare Distributors,200430,488,22.7,98.3
+2023-08-31,2023-08,Bortezomib,USA,North America,GlobalMeds,131356,749,27.0,96.1
+2023-08-31,2023-08,Bortezomib,Germany,EU,LifeCare Distributors,82336,453,16.1,96.2
+2023-08-31,2023-08,Bortezomib,Brazil,LATAM,MedSupply Global,126197,358,19.6,93.3
+2023-08-31,2023-08,Bortezomib,India,APAC,GlobalMeds,120631,214,27.9,89.7
+2023-08-31,2023-08,Bortezomib,UK,EU,LifeCare Distributors,164291,329,12.2,94.9
+2023-08-31,2023-08,Anastrozole,USA,North America,GlobalMeds,204714,482,18.9,90.1
+2023-08-31,2023-08,Anastrozole,Germany,EU,PharmaCorp,156325,333,20.0,93.3
+2023-08-31,2023-08,Anastrozole,Brazil,LATAM,PharmaCorp,170474,595,30.2,89.6
+2023-08-31,2023-08,Anastrozole,India,APAC,PharmaCorp,97368,659,14.0,98.6
+2023-08-31,2023-08,Anastrozole,UK,EU,MedSupply Global,140279,326,15.1,94.6
+2023-08-31,2023-08,Carboplatin,USA,North America,PharmaCorp,135176,250,26.7,98.7
+2023-08-31,2023-08,Carboplatin,Germany,EU,PharmaCorp,224790,604,15.3,90.1
+2023-08-31,2023-08,Carboplatin,Brazil,LATAM,LifeCare Distributors,99256,200,29.4,94.0
+2023-08-31,2023-08,Carboplatin,India,APAC,GlobalMeds,148244,630,13.1,91.9
+2023-08-31,2023-08,Carboplatin,UK,EU,GlobalMeds,119224,316,24.1,89.3
+2023-09-30,2023-09,Docetaxel,USA,North America,GlobalMeds,219649,409,21.6,98.6
+2023-09-30,2023-09,Docetaxel,Germany,EU,GlobalMeds,121914,378,17.0,94.6
+2023-09-30,2023-09,Docetaxel,Brazil,LATAM,GlobalMeds,99956,360,19.2,94.7
+2023-09-30,2023-09,Docetaxel,India,APAC,PharmaCorp,99097,355,16.3,93.9
+2023-09-30,2023-09,Docetaxel,UK,EU,MedSupply Global,126163,560,15.0,92.8
+2023-09-30,2023-09,Propofol,USA,North America,GlobalMeds,232638,559,22.0,94.8
+2023-09-30,2023-09,Propofol,Germany,EU,MedSupply Global,172374,634,16.2,98.3
+2023-09-30,2023-09,Propofol,Brazil,LATAM,GlobalMeds,213789,484,24.5,92.3
+2023-09-30,2023-09,Propofol,India,APAC,GlobalMeds,173607,218,13.3,96.9
+2023-09-30,2023-09,Propofol,UK,EU,LifeCare Distributors,239937,701,20.8,92.6
+2023-09-30,2023-09,Bortezomib,USA,North America,PharmaCorp,236594,463,29.2,98.9
+2023-09-30,2023-09,Bortezomib,Germany,EU,GlobalMeds,183177,657,29.9,94.1
+2023-09-30,2023-09,Bortezomib,Brazil,LATAM,MedSupply Global,185947,377,29.3,92.7
+2023-09-30,2023-09,Bortezomib,India,APAC,MedSupply Global,110678,642,22.1,94.8
+2023-09-30,2023-09,Bortezomib,UK,EU,MedSupply Global,152258,250,25.1,90.7
+2023-09-30,2023-09,Anastrozole,USA,North America,PharmaCorp,153506,295,31.8,94.9
+2023-09-30,2023-09,Anastrozole,Germany,EU,PharmaCorp,164458,651,30.9,89.6
+2023-09-30,2023-09,Anastrozole,Brazil,LATAM,PharmaCorp,146358,206,24.7,96.5
+2023-09-30,2023-09,Anastrozole,India,APAC,MedSupply Global,231151,580,29.5,95.4
+2023-09-30,2023-09,Anastrozole,UK,EU,PharmaCorp,219777,722,17.2,92.4
+2023-09-30,2023-09,Carboplatin,USA,North America,LifeCare Distributors,196243,460,18.9,96.9
+2023-09-30,2023-09,Carboplatin,Germany,EU,MedSupply Global,210273,252,17.9,98.9
+2023-09-30,2023-09,Carboplatin,Brazil,LATAM,PharmaCorp,228843,479,14.3,94.5
+2023-09-30,2023-09,Carboplatin,India,APAC,LifeCare Distributors,170093,327,15.6,93.6
+2023-09-30,2023-09,Carboplatin,UK,EU,MedSupply Global,82573,720,22.8,95.3
+2023-10-31,2023-10,Docetaxel,USA,North America,LifeCare Distributors,103752,477,28.7,99.3
+2023-10-31,2023-10,Docetaxel,Germany,EU,PharmaCorp,206678,274,28.5,94.1
+2023-10-31,2023-10,Docetaxel,Brazil,LATAM,PharmaCorp,249315,240,17.5,94.4
+2023-10-31,2023-10,Docetaxel,India,APAC,MedSupply Global,201829,577,26.4,89.2
+2023-10-31,2023-10,Docetaxel,UK,EU,PharmaCorp,131226,486,29.5,94.9
+2023-10-31,2023-10,Propofol,USA,North America,GlobalMeds,127924,654,23.5,97.6
+2023-10-31,2023-10,Propofol,Germany,EU,MedSupply Global,169563,757,12.9,89.9
+2023-10-31,2023-10,Propofol,Brazil,LATAM,LifeCare Distributors,230322,491,27.4,88.8
+2023-10-31,2023-10,Propofol,India,APAC,LifeCare Distributors,169599,312,26.4,95.0
+2023-10-31,2023-10,Propofol,UK,EU,PharmaCorp,239841,254,25.3,98.8
+2023-10-31,2023-10,Bortezomib,USA,North America,MedSupply Global,232864,747,22.8,89.9
+2023-10-31,2023-10,Bortezomib,Germany,EU,GlobalMeds,226922,706,23.9,91.8
+2023-10-31,2023-10,Bortezomib,Brazil,LATAM,PharmaCorp,212596,272,13.5,96.4
+2023-10-31,2023-10,Bortezomib,India,APAC,MedSupply Global,211132,241,21.2,88.9
+2023-10-31,2023-10,Bortezomib,UK,EU,PharmaCorp,245092,307,25.9,91.1
+2023-10-31,2023-10,Anastrozole,USA,North America,PharmaCorp,103051,474,18.3,97.3
+2023-10-31,2023-10,Anastrozole,Germany,EU,MedSupply Global,246844,216,31.0,93.1
+2023-10-31,2023-10,Anastrozole,Brazil,LATAM,LifeCare Distributors,231563,517,31.2,96.7
+2023-10-31,2023-10,Anastrozole,India,APAC,LifeCare Distributors,91344,684,25.8,97.8
+2023-10-31,2023-10,Anastrozole,UK,EU,MedSupply Global,157454,770,31.8,98.9
+2023-10-31,2023-10,Carboplatin,USA,North America,LifeCare Distributors,239007,215,30.5,90.1
+2023-10-31,2023-10,Carboplatin,Germany,EU,MedSupply Global,99541,449,18.3,89.4
+2023-10-31,2023-10,Carboplatin,Brazil,LATAM,LifeCare Distributors,222194,697,20.4,97.1
+2023-10-31,2023-10,Carboplatin,India,APAC,LifeCare Distributors,131571,601,22.4,95.4
+2023-10-31,2023-10,Carboplatin,UK,EU,PharmaCorp,154910,351,16.6,89.4
+2023-11-30,2023-11,Docetaxel,USA,North America,PharmaCorp,214055,382,20.1,94.6
+2023-11-30,2023-11,Docetaxel,Germany,EU,GlobalMeds,86640,715,27.8,91.7
+2023-11-30,2023-11,Docetaxel,Brazil,LATAM,PharmaCorp,193824,215,20.5,98.1
+2023-11-30,2023-11,Docetaxel,India,APAC,PharmaCorp,203618,369,31.8,88.0
+2023-11-30,2023-11,Docetaxel,UK,EU,MedSupply Global,107788,473,30.8,97.2
+2023-11-30,2023-11,Propofol,USA,North America,LifeCare Distributors,187309,228,27.3,92.6
+2023-11-30,2023-11,Propofol,Germany,EU,MedSupply Global,92984,471,29.5,99.3
+2023-11-30,2023-11,Propofol,Brazil,LATAM,PharmaCorp,185373,558,22.5,96.4
+2023-11-30,2023-11,Propofol,India,APAC,MedSupply Global,82050,628,19.1,91.3
+2023-11-30,2023-11,Propofol,UK,EU,GlobalMeds,243985,492,12.8,88.2
+2023-11-30,2023-11,Bortezomib,USA,North America,PharmaCorp,246472,598,19.7,95.8
+2023-11-30,2023-11,Bortezomib,Germany,EU,GlobalMeds,123001,260,17.2,94.8
+2023-11-30,2023-11,Bortezomib,Brazil,LATAM,LifeCare Distributors,204343,518,30.9,93.4
+2023-11-30,2023-11,Bortezomib,India,APAC,MedSupply Global,104262,763,13.3,92.6
+2023-11-30,2023-11,Bortezomib,UK,EU,MedSupply Global,249269,442,22.3,90.7
+2023-11-30,2023-11,Anastrozole,USA,North America,PharmaCorp,196953,705,27.6,92.0
+2023-11-30,2023-11,Anastrozole,Germany,EU,MedSupply Global,153781,246,16.3,94.0
+2023-11-30,2023-11,Anastrozole,Brazil,LATAM,GlobalMeds,229369,772,17.2,93.9
+2023-11-30,2023-11,Anastrozole,India,APAC,PharmaCorp,237757,344,15.1,97.4
+2023-11-30,2023-11,Anastrozole,UK,EU,PharmaCorp,134028,319,27.0,88.4
+2023-11-30,2023-11,Carboplatin,USA,North America,GlobalMeds,114701,556,13.8,98.1
+2023-11-30,2023-11,Carboplatin,Germany,EU,LifeCare Distributors,123642,740,29.8,99.0
+2023-11-30,2023-11,Carboplatin,Brazil,LATAM,GlobalMeds,174377,720,18.6,98.7
+2023-11-30,2023-11,Carboplatin,India,APAC,LifeCare Distributors,130106,425,20.2,92.3
+2023-11-30,2023-11,Carboplatin,UK,EU,GlobalMeds,232826,375,21.9,88.9
+2023-12-31,2023-12,Docetaxel,USA,North America,GlobalMeds,220975,792,13.2,98.2
+2023-12-31,2023-12,Docetaxel,Germany,EU,PharmaCorp,82396,314,28.5,92.0
+2023-12-31,2023-12,Docetaxel,Brazil,LATAM,PharmaCorp,151719,488,29.6,97.2
+2023-12-31,2023-12,Docetaxel,India,APAC,GlobalMeds,185228,562,16.8,98.7
+2023-12-31,2023-12,Docetaxel,UK,EU,GlobalMeds,166206,621,15.8,98.1
+2023-12-31,2023-12,Propofol,USA,North America,MedSupply Global,154553,230,28.5,89.5
+2023-12-31,2023-12,Propofol,Germany,EU,LifeCare Distributors,247581,750,15.2,97.4
+2023-12-31,2023-12,Propofol,Brazil,LATAM,PharmaCorp,172124,723,12.1,91.3
+2023-12-31,2023-12,Propofol,India,APAC,PharmaCorp,155418,312,23.2,89.3
+2023-12-31,2023-12,Propofol,UK,EU,PharmaCorp,224059,647,22.8,97.0
+2023-12-31,2023-12,Bortezomib,USA,North America,PharmaCorp,156242,613,12.4,93.0
+2023-12-31,2023-12,Bortezomib,Germany,EU,PharmaCorp,141246,611,24.7,98.7
+2023-12-31,2023-12,Bortezomib,Brazil,LATAM,MedSupply Global,224579,683,13.4,91.5
+2023-12-31,2023-12,Bortezomib,India,APAC,MedSupply Global,203797,600,23.6,92.0
+2023-12-31,2023-12,Bortezomib,UK,EU,PharmaCorp,194682,409,29.4,99.2
+2023-12-31,2023-12,Anastrozole,USA,North America,MedSupply Global,232267,426,23.9,92.4
+2023-12-31,2023-12,Anastrozole,Germany,EU,MedSupply Global,203786,232,18.5,93.6
+2023-12-31,2023-12,Anastrozole,Brazil,LATAM,LifeCare Distributors,107082,769,12.0,89.8
+2023-12-31,2023-12,Anastrozole,India,APAC,PharmaCorp,203395,298,21.0,89.9
+2023-12-31,2023-12,Anastrozole,UK,EU,LifeCare Distributors,155932,274,16.4,88.9
+2023-12-31,2023-12,Carboplatin,USA,North America,PharmaCorp,132307,221,14.6,98.0
+2023-12-31,2023-12,Carboplatin,Germany,EU,PharmaCorp,177883,220,30.2,97.9
+2023-12-31,2023-12,Carboplatin,Brazil,LATAM,GlobalMeds,128901,652,31.7,92.7
+2023-12-31,2023-12,Carboplatin,India,APAC,GlobalMeds,231054,361,16.3,88.4
+2023-12-31,2023-12,Carboplatin,UK,EU,MedSupply Global,162711,723,23.3,93.4
+2024-01-31,2024-01,Docetaxel,USA,North America,LifeCare Distributors,101563,629,16.1,89.0
+2024-01-31,2024-01,Docetaxel,Germany,EU,GlobalMeds,162970,761,27.2,95.2
+2024-01-31,2024-01,Docetaxel,Brazil,LATAM,GlobalMeds,249899,735,30.4,95.1
+2024-01-31,2024-01,Docetaxel,India,APAC,PharmaCorp,80526,352,12.0,94.9
+2024-01-31,2024-01,Docetaxel,UK,EU,PharmaCorp,159083,720,16.0,93.7
+2024-01-31,2024-01,Propofol,USA,North America,LifeCare Distributors,209749,700,17.4,97.2
+2024-01-31,2024-01,Propofol,Germany,EU,LifeCare Distributors,240831,271,21.3,95.8
+2024-01-31,2024-01,Propofol,Brazil,LATAM,PharmaCorp,163309,694,24.0,91.4
+2024-01-31,2024-01,Propofol,India,APAC,MedSupply Global,144288,301,30.2,96.3
+2024-01-31,2024-01,Propofol,UK,EU,LifeCare Distributors,126167,752,16.8,99.3
+2024-01-31,2024-01,Bortezomib,USA,North America,GlobalMeds,176347,441,18.5,94.0
+2024-01-31,2024-01,Bortezomib,Germany,EU,MedSupply Global,192360,788,13.6,92.6
+2024-01-31,2024-01,Bortezomib,Brazil,LATAM,PharmaCorp,234470,289,25.8,97.2
+2024-01-31,2024-01,Bortezomib,India,APAC,PharmaCorp,89078,627,14.1,95.3
+2024-01-31,2024-01,Bortezomib,UK,EU,LifeCare Distributors,212997,208,30.7,88.6
+2024-01-31,2024-01,Anastrozole,USA,North America,GlobalMeds,113320,569,30.7,98.9
+2024-01-31,2024-01,Anastrozole,Germany,EU,GlobalMeds,214461,283,18.8,97.4
+2024-01-31,2024-01,Anastrozole,Brazil,LATAM,LifeCare Distributors,178511,589,28.3,93.2
+2024-01-31,2024-01,Anastrozole,India,APAC,LifeCare Distributors,232360,213,13.6,88.7
+2024-01-31,2024-01,Anastrozole,UK,EU,LifeCare Distributors,190091,736,29.4,90.5
+2024-01-31,2024-01,Carboplatin,USA,North America,LifeCare Distributors,203629,555,26.9,98.0
+2024-01-31,2024-01,Carboplatin,Germany,EU,MedSupply Global,150326,487,22.0,94.4
+2024-01-31,2024-01,Carboplatin,Brazil,LATAM,PharmaCorp,96082,748,31.9,99.2
+2024-01-31,2024-01,Carboplatin,India,APAC,LifeCare Distributors,159561,234,16.4,92.8
+2024-01-31,2024-01,Carboplatin,UK,EU,LifeCare Distributors,241099,358,20.3,97.7
+2024-02-29,2024-02,Docetaxel,USA,North America,MedSupply Global,105963,581,31.8,88.5
+2024-02-29,2024-02,Docetaxel,Germany,EU,MedSupply Global,160818,619,12.6,92.5
+2024-02-29,2024-02,Docetaxel,Brazil,LATAM,GlobalMeds,123585,534,30.0,92.8
+2024-02-29,2024-02,Docetaxel,India,APAC,PharmaCorp,109426,570,17.7,92.1
+2024-02-29,2024-02,Docetaxel,UK,EU,LifeCare Distributors,206503,220,26.7,89.5
+2024-02-29,2024-02,Propofol,USA,North America,GlobalMeds,237795,677,15.6,90.7
+2024-02-29,2024-02,Propofol,Germany,EU,PharmaCorp,113142,492,29.1,93.7
+2024-02-29,2024-02,Propofol,Brazil,LATAM,PharmaCorp,176059,580,20.9,93.9
+2024-02-29,2024-02,Propofol,India,APAC,MedSupply Global,181459,329,13.9,95.5
+2024-02-29,2024-02,Propofol,UK,EU,MedSupply Global,147649,362,25.1,91.7
+2024-02-29,2024-02,Bortezomib,USA,North America,GlobalMeds,166475,500,16.7,90.7
+2024-02-29,2024-02,Bortezomib,Germany,EU,PharmaCorp,124738,469,18.6,93.2
+2024-02-29,2024-02,Bortezomib,Brazil,LATAM,GlobalMeds,191453,560,20.6,90.9
+2024-02-29,2024-02,Bortezomib,India,APAC,LifeCare Distributors,234571,712,17.1,92.1
+2024-02-29,2024-02,Bortezomib,UK,EU,GlobalMeds,115946,403,21.5,97.7
+2024-02-29,2024-02,Anastrozole,USA,North America,GlobalMeds,159671,355,29.3,94.4
+2024-02-29,2024-02,Anastrozole,Germany,EU,LifeCare Distributors,114707,533,13.1,94.1
+2024-02-29,2024-02,Anastrozole,Brazil,LATAM,GlobalMeds,80281,200,14.4,93.2
+2024-02-29,2024-02,Anastrozole,India,APAC,MedSupply Global,240928,405,25.8,92.6
+2024-02-29,2024-02,Anastrozole,UK,EU,PharmaCorp,212311,450,12.1,98.9
+2024-02-29,2024-02,Carboplatin,USA,North America,PharmaCorp,141212,384,23.6,90.9
+2024-02-29,2024-02,Carboplatin,Germany,EU,LifeCare Distributors,148785,627,22.6,89.4
+2024-02-29,2024-02,Carboplatin,Brazil,LATAM,PharmaCorp,112556,507,26.1,90.3
+2024-02-29,2024-02,Carboplatin,India,APAC,LifeCare Distributors,201863,540,13.9,95.7
+2024-02-29,2024-02,Carboplatin,UK,EU,GlobalMeds,93669,716,31.3,90.9
+2024-03-31,2024-03,Docetaxel,USA,North America,MedSupply Global,226649,626,25.7,93.7
+2024-03-31,2024-03,Docetaxel,Germany,EU,MedSupply Global,104089,502,23.4,88.3
+2024-03-31,2024-03,Docetaxel,Brazil,LATAM,GlobalMeds,248280,200,16.3,95.6
+2024-03-31,2024-03,Docetaxel,India,APAC,MedSupply Global,238056,419,15.2,95.0
+2024-03-31,2024-03,Docetaxel,UK,EU,LifeCare Distributors,85704,360,20.1,98.0
+2024-03-31,2024-03,Propofol,USA,North America,MedSupply Global,198516,788,17.8,89.3
+2024-03-31,2024-03,Propofol,Germany,EU,PharmaCorp,194044,301,18.5,95.7
+2024-03-31,2024-03,Propofol,Brazil,LATAM,PharmaCorp,116321,793,29.6,91.6
+2024-03-31,2024-03,Propofol,India,APAC,MedSupply Global,183754,543,17.9,95.5
+2024-03-31,2024-03,Propofol,UK,EU,MedSupply Global,83726,264,19.3,92.6
+2024-03-31,2024-03,Bortezomib,USA,North America,MedSupply Global,115643,672,23.9,94.3
+2024-03-31,2024-03,Bortezomib,Germany,EU,LifeCare Distributors,233515,301,13.5,94.9
+2024-03-31,2024-03,Bortezomib,Brazil,LATAM,PharmaCorp,105537,202,22.8,98.9
+2024-03-31,2024-03,Bortezomib,India,APAC,PharmaCorp,111348,420,18.8,92.4
+2024-03-31,2024-03,Bortezomib,UK,EU,PharmaCorp,133551,492,16.9,93.5
+2024-03-31,2024-03,Anastrozole,USA,North America,LifeCare Distributors,238038,525,26.9,96.2
+2024-03-31,2024-03,Anastrozole,Germany,EU,LifeCare Distributors,104596,606,20.6,98.3
+2024-03-31,2024-03,Anastrozole,Brazil,LATAM,MedSupply Global,167163,598,16.9,98.7
+2024-03-31,2024-03,Anastrozole,India,APAC,LifeCare Distributors,125379,340,19.0,89.2
+2024-03-31,2024-03,Anastrozole,UK,EU,MedSupply Global,87151,572,17.7,91.5
+2024-03-31,2024-03,Carboplatin,USA,North America,LifeCare Distributors,224539,490,23.6,89.0
+2024-03-31,2024-03,Carboplatin,Germany,EU,PharmaCorp,188177,201,17.5,92.8
+2024-03-31,2024-03,Carboplatin,Brazil,LATAM,MedSupply Global,166365,658,14.5,97.9
+2024-03-31,2024-03,Carboplatin,India,APAC,LifeCare Distributors,152588,358,26.2,89.2
+2024-03-31,2024-03,Carboplatin,UK,EU,PharmaCorp,217513,235,20.5,89.0
+2024-04-30,2024-04,Docetaxel,USA,North America,PharmaCorp,232747,575,22.5,89.3
+2024-04-30,2024-04,Docetaxel,Germany,EU,MedSupply Global,234741,476,29.7,90.6
+2024-04-30,2024-04,Docetaxel,Brazil,LATAM,MedSupply Global,161929,577,19.2,98.4
+2024-04-30,2024-04,Docetaxel,India,APAC,GlobalMeds,199503,248,16.7,97.0
+2024-04-30,2024-04,Docetaxel,UK,EU,PharmaCorp,185111,730,29.0,95.7
+2024-04-30,2024-04,Propofol,USA,North America,MedSupply Global,145681,638,23.7,89.9
+2024-04-30,2024-04,Propofol,Germany,EU,LifeCare Distributors,97633,631,18.2,90.6
+2024-04-30,2024-04,Propofol,Brazil,LATAM,LifeCare Distributors,103711,722,16.6,92.5
+2024-04-30,2024-04,Propofol,India,APAC,MedSupply Global,87421,519,14.7,96.0
+2024-04-30,2024-04,Propofol,UK,EU,LifeCare Distributors,204457,573,20.9,96.3
+2024-04-30,2024-04,Bortezomib,USA,North America,LifeCare Distributors,189847,501,14.1,96.3
+2024-04-30,2024-04,Bortezomib,Germany,EU,PharmaCorp,111007,366,27.5,91.0
+2024-04-30,2024-04,Bortezomib,Brazil,LATAM,MedSupply Global,190944,272,18.5,90.6
+2024-04-30,2024-04,Bortezomib,India,APAC,MedSupply Global,205926,760,28.6,95.7
+2024-04-30,2024-04,Bortezomib,UK,EU,GlobalMeds,116378,359,22.8,98.1
+2024-04-30,2024-04,Anastrozole,USA,North America,PharmaCorp,153794,580,21.1,90.2
+2024-04-30,2024-04,Anastrozole,Germany,EU,PharmaCorp,230273,408,31.9,93.1
+2024-04-30,2024-04,Anastrozole,Brazil,LATAM,GlobalMeds,177543,641,31.2,90.0
+2024-04-30,2024-04,Anastrozole,India,APAC,LifeCare Distributors,148910,510,22.7,89.1
+2024-04-30,2024-04,Anastrozole,UK,EU,MedSupply Global,204982,211,19.0,95.6
+2024-04-30,2024-04,Carboplatin,USA,North America,GlobalMeds,221826,741,16.7,92.6
+2024-04-30,2024-04,Carboplatin,Germany,EU,GlobalMeds,109301,716,26.7,96.8
+2024-04-30,2024-04,Carboplatin,Brazil,LATAM,MedSupply Global,178452,283,24.5,89.0
+2024-04-30,2024-04,Carboplatin,India,APAC,LifeCare Distributors,84895,360,24.2,93.8
+2024-04-30,2024-04,Carboplatin,UK,EU,GlobalMeds,99169,708,12.7,91.5
+2024-05-31,2024-05,Docetaxel,USA,North America,PharmaCorp,204481,560,13.8,98.8
+2024-05-31,2024-05,Docetaxel,Germany,EU,MedSupply Global,164416,379,17.6,98.8
+2024-05-31,2024-05,Docetaxel,Brazil,LATAM,PharmaCorp,170373,618,27.7,94.6
+2024-05-31,2024-05,Docetaxel,India,APAC,GlobalMeds,141929,211,30.6,89.3
+2024-05-31,2024-05,Docetaxel,UK,EU,PharmaCorp,167468,357,29.6,98.0
+2024-05-31,2024-05,Propofol,USA,North America,PharmaCorp,111750,725,13.6,92.6
+2024-05-31,2024-05,Propofol,Germany,EU,PharmaCorp,100609,665,31.1,94.6
+2024-05-31,2024-05,Propofol,Brazil,LATAM,PharmaCorp,216728,452,29.2,98.6
+2024-05-31,2024-05,Propofol,India,APAC,PharmaCorp,242624,309,30.0,97.5
+2024-05-31,2024-05,Propofol,UK,EU,GlobalMeds,91138,682,20.0,89.7
+2024-05-31,2024-05,Bortezomib,USA,North America,MedSupply Global,181268,736,16.7,88.9
+2024-05-31,2024-05,Bortezomib,Germany,EU,GlobalMeds,87967,327,20.6,91.6
+2024-05-31,2024-05,Bortezomib,Brazil,LATAM,PharmaCorp,108179,646,24.8,90.5
+2024-05-31,2024-05,Bortezomib,India,APAC,PharmaCorp,140545,259,19.3,92.4
+2024-05-31,2024-05,Bortezomib,UK,EU,MedSupply Global,122913,544,13.2,99.4
+2024-05-31,2024-05,Anastrozole,USA,North America,MedSupply Global,199863,662,31.7,90.8
+2024-05-31,2024-05,Anastrozole,Germany,EU,LifeCare Distributors,108141,462,25.8,88.7
+2024-05-31,2024-05,Anastrozole,Brazil,LATAM,GlobalMeds,126851,751,28.3,95.1
+2024-05-31,2024-05,Anastrozole,India,APAC,GlobalMeds,178723,323,29.0,96.3
+2024-05-31,2024-05,Anastrozole,UK,EU,MedSupply Global,112371,773,25.1,92.1
+2024-05-31,2024-05,Carboplatin,USA,North America,LifeCare Distributors,106715,725,15.5,92.5
+2024-05-31,2024-05,Carboplatin,Germany,EU,MedSupply Global,150017,773,21.6,88.2
+2024-05-31,2024-05,Carboplatin,Brazil,LATAM,LifeCare Distributors,234249,670,14.7,94.2
+2024-05-31,2024-05,Carboplatin,India,APAC,MedSupply Global,140428,412,28.7,95.2
+2024-05-31,2024-05,Carboplatin,UK,EU,MedSupply Global,180689,372,12.9,92.3
+2024-06-30,2024-06,Docetaxel,USA,North America,MedSupply Global,221706,507,17.3,89.7
+2024-06-30,2024-06,Docetaxel,Germany,EU,PharmaCorp,184131,745,18.5,96.5
+2024-06-30,2024-06,Docetaxel,Brazil,LATAM,GlobalMeds,152930,635,29.2,92.5
+2024-06-30,2024-06,Docetaxel,India,APAC,PharmaCorp,197360,304,14.0,95.6
+2024-06-30,2024-06,Docetaxel,UK,EU,MedSupply Global,184576,329,20.8,90.9
+2024-06-30,2024-06,Propofol,USA,North America,PharmaCorp,170353,431,21.2,95.3
+2024-06-30,2024-06,Propofol,Germany,EU,PharmaCorp,239674,399,16.5,98.2
+2024-06-30,2024-06,Propofol,Brazil,LATAM,LifeCare Distributors,236503,372,15.0,96.5
+2024-06-30,2024-06,Propofol,India,APAC,MedSupply Global,233686,300,13.0,88.4
+2024-06-30,2024-06,Propofol,UK,EU,LifeCare Distributors,143530,584,13.4,88.8
+2024-06-30,2024-06,Bortezomib,USA,North America,GlobalMeds,163588,347,26.8,92.1
+2024-06-30,2024-06,Bortezomib,Germany,EU,PharmaCorp,128355,635,27.5,95.6
+2024-06-30,2024-06,Bortezomib,Brazil,LATAM,GlobalMeds,239210,641,14.0,95.6
+2024-06-30,2024-06,Bortezomib,India,APAC,GlobalMeds,216511,337,12.4,88.9
+2024-06-30,2024-06,Bortezomib,UK,EU,GlobalMeds,234960,422,27.6,90.6
+2024-06-30,2024-06,Anastrozole,USA,North America,MedSupply Global,177661,789,13.4,99.0
+2024-06-30,2024-06,Anastrozole,Germany,EU,LifeCare Distributors,166205,569,18.4,89.4
+2024-06-30,2024-06,Anastrozole,Brazil,LATAM,LifeCare Distributors,97153,573,21.7,98.6
+2024-06-30,2024-06,Anastrozole,India,APAC,GlobalMeds,89503,487,25.1,89.5
+2024-06-30,2024-06,Anastrozole,UK,EU,LifeCare Distributors,205200,601,16.5,92.3
+2024-06-30,2024-06,Carboplatin,USA,North America,LifeCare Distributors,135419,613,30.6,95.8
+2024-06-30,2024-06,Carboplatin,Germany,EU,LifeCare Distributors,178989,312,24.9,91.3
+2024-06-30,2024-06,Carboplatin,Brazil,LATAM,GlobalMeds,200029,238,28.9,98.6
+2024-06-30,2024-06,Carboplatin,India,APAC,PharmaCorp,180500,596,16.4,99.3
+2024-06-30,2024-06,Carboplatin,UK,EU,PharmaCorp,234983,437,27.5,95.5
+2024-07-31,2024-07,Docetaxel,USA,North America,LifeCare Distributors,138005,434,17.4,94.2
+2024-07-31,2024-07,Docetaxel,Germany,EU,MedSupply Global,165457,740,25.7,89.1
+2024-07-31,2024-07,Docetaxel,Brazil,LATAM,PharmaCorp,124638,662,22.1,97.7
+2024-07-31,2024-07,Docetaxel,India,APAC,MedSupply Global,188821,620,23.8,93.8
+2024-07-31,2024-07,Docetaxel,UK,EU,LifeCare Distributors,229109,218,15.0,89.1
+2024-07-31,2024-07,Propofol,USA,North America,GlobalMeds,89496,327,20.7,89.8
+2024-07-31,2024-07,Propofol,Germany,EU,PharmaCorp,233728,460,29.6,91.2
+2024-07-31,2024-07,Propofol,Brazil,LATAM,LifeCare Distributors,101727,690,18.2,96.5
+2024-07-31,2024-07,Propofol,India,APAC,PharmaCorp,160102,265,19.1,97.0
+2024-07-31,2024-07,Propofol,UK,EU,GlobalMeds,188777,513,12.7,96.6
+2024-07-31,2024-07,Bortezomib,USA,North America,PharmaCorp,225016,617,27.2,95.8
+2024-07-31,2024-07,Bortezomib,Germany,EU,GlobalMeds,180082,269,29.5,99.5
+2024-07-31,2024-07,Bortezomib,Brazil,LATAM,GlobalMeds,89596,331,26.4,98.2
+2024-07-31,2024-07,Bortezomib,India,APAC,LifeCare Distributors,103705,668,12.0,90.1
+2024-07-31,2024-07,Bortezomib,UK,EU,PharmaCorp,172197,387,27.9,89.1
+2024-07-31,2024-07,Anastrozole,USA,North America,LifeCare Distributors,148099,420,24.8,88.7
+2024-07-31,2024-07,Anastrozole,Germany,EU,GlobalMeds,234297,254,26.1,88.6
+2024-07-31,2024-07,Anastrozole,Brazil,LATAM,GlobalMeds,145697,793,24.0,88.3
+2024-07-31,2024-07,Anastrozole,India,APAC,LifeCare Distributors,190384,518,13.5,88.7
+2024-07-31,2024-07,Anastrozole,UK,EU,MedSupply Global,142539,741,31.6,90.4
+2024-07-31,2024-07,Carboplatin,USA,North America,GlobalMeds,221330,631,19.5,89.4
+2024-07-31,2024-07,Carboplatin,Germany,EU,MedSupply Global,156256,345,19.4,88.7
+2024-07-31,2024-07,Carboplatin,Brazil,LATAM,GlobalMeds,107386,502,32.0,98.7
+2024-07-31,2024-07,Carboplatin,India,APAC,MedSupply Global,157984,600,24.8,93.7
+2024-07-31,2024-07,Carboplatin,UK,EU,LifeCare Distributors,241326,277,26.9,96.5
+2024-08-31,2024-08,Docetaxel,USA,North America,PharmaCorp,83471,704,23.3,99.3
+2024-08-31,2024-08,Docetaxel,Germany,EU,LifeCare Distributors,134220,453,23.7,96.0
+2024-08-31,2024-08,Docetaxel,Brazil,LATAM,LifeCare Distributors,163820,762,30.8,91.0
+2024-08-31,2024-08,Docetaxel,India,APAC,PharmaCorp,150553,780,28.8,90.1
+2024-08-31,2024-08,Docetaxel,UK,EU,MedSupply Global,236351,460,26.1,95.3
+2024-08-31,2024-08,Propofol,USA,North America,PharmaCorp,226150,494,21.9,93.0
+2024-08-31,2024-08,Propofol,Germany,EU,MedSupply Global,123619,381,16.5,89.5
+2024-08-31,2024-08,Propofol,Brazil,LATAM,MedSupply Global,218782,795,25.1,99.0
+2024-08-31,2024-08,Propofol,India,APAC,PharmaCorp,212503,613,12.7,91.2
+2024-08-31,2024-08,Propofol,UK,EU,LifeCare Distributors,99675,469,17.0,91.1
+2024-08-31,2024-08,Bortezomib,USA,North America,PharmaCorp,220905,404,17.4,89.8
+2024-08-31,2024-08,Bortezomib,Germany,EU,GlobalMeds,213715,449,23.2,92.0
+2024-08-31,2024-08,Bortezomib,Brazil,LATAM,PharmaCorp,182304,718,13.7,90.7
+2024-08-31,2024-08,Bortezomib,India,APAC,GlobalMeds,218999,402,31.3,94.4
+2024-08-31,2024-08,Bortezomib,UK,EU,LifeCare Distributors,145428,625,28.6,97.1
+2024-08-31,2024-08,Anastrozole,USA,North America,PharmaCorp,231716,513,31.6,89.7
+2024-08-31,2024-08,Anastrozole,Germany,EU,LifeCare Distributors,245593,504,21.3,99.2
+2024-08-31,2024-08,Anastrozole,Brazil,LATAM,GlobalMeds,122891,644,14.3,89.7
+2024-08-31,2024-08,Anastrozole,India,APAC,GlobalMeds,171006,689,13.8,95.9
+2024-08-31,2024-08,Anastrozole,UK,EU,MedSupply Global,142032,772,16.5,92.6
+2024-08-31,2024-08,Carboplatin,USA,North America,LifeCare Distributors,135718,797,23.0,95.0
+2024-08-31,2024-08,Carboplatin,Germany,EU,PharmaCorp,149184,716,30.9,97.8
+2024-08-31,2024-08,Carboplatin,Brazil,LATAM,PharmaCorp,201673,297,29.2,93.3
+2024-08-31,2024-08,Carboplatin,India,APAC,LifeCare Distributors,173269,787,13.2,93.9
+2024-08-31,2024-08,Carboplatin,UK,EU,GlobalMeds,150202,442,27.7,90.3
+2024-09-30,2024-09,Docetaxel,USA,North America,LifeCare Distributors,98708,731,22.9,96.7
+2024-09-30,2024-09,Docetaxel,Germany,EU,GlobalMeds,242005,575,14.5,95.6
+2024-09-30,2024-09,Docetaxel,Brazil,LATAM,GlobalMeds,226011,580,21.0,99.3
+2024-09-30,2024-09,Docetaxel,India,APAC,PharmaCorp,109118,265,13.3,93.3
+2024-09-30,2024-09,Docetaxel,UK,EU,GlobalMeds,171179,296,19.8,97.2
+2024-09-30,2024-09,Propofol,USA,North America,LifeCare Distributors,237462,578,19.6,96.9
+2024-09-30,2024-09,Propofol,Germany,EU,LifeCare Distributors,213623,467,22.5,91.3
+2024-09-30,2024-09,Propofol,Brazil,LATAM,GlobalMeds,232872,363,17.5,91.6
+2024-09-30,2024-09,Propofol,India,APAC,MedSupply Global,232110,437,22.7,89.8
+2024-09-30,2024-09,Propofol,UK,EU,GlobalMeds,165445,467,15.3,95.1
+2024-09-30,2024-09,Bortezomib,USA,North America,MedSupply Global,145794,482,17.5,99.3
+2024-09-30,2024-09,Bortezomib,Germany,EU,MedSupply Global,205147,328,12.7,92.2
+2024-09-30,2024-09,Bortezomib,Brazil,LATAM,GlobalMeds,97071,459,28.0,99.1
+2024-09-30,2024-09,Bortezomib,India,APAC,LifeCare Distributors,213663,723,26.8,91.7
+2024-09-30,2024-09,Bortezomib,UK,EU,MedSupply Global,236222,308,31.7,95.7
+2024-09-30,2024-09,Anastrozole,USA,North America,MedSupply Global,136481,459,31.9,99.3
+2024-09-30,2024-09,Anastrozole,Germany,EU,LifeCare Distributors,88438,736,13.9,88.3
+2024-09-30,2024-09,Anastrozole,Brazil,LATAM,GlobalMeds,235289,581,19.6,99.2
+2024-09-30,2024-09,Anastrozole,India,APAC,GlobalMeds,177756,464,28.4,94.2
+2024-09-30,2024-09,Anastrozole,UK,EU,LifeCare Distributors,161835,576,21.4,97.4
+2024-09-30,2024-09,Carboplatin,USA,North America,GlobalMeds,229960,425,28.4,98.1
+2024-09-30,2024-09,Carboplatin,Germany,EU,PharmaCorp,149615,476,14.3,89.0
+2024-09-30,2024-09,Carboplatin,Brazil,LATAM,MedSupply Global,105556,745,19.0,93.2
+2024-09-30,2024-09,Carboplatin,India,APAC,PharmaCorp,113866,478,24.4,92.1
+2024-09-30,2024-09,Carboplatin,UK,EU,MedSupply Global,229130,488,14.5,95.8
+2024-10-31,2024-10,Docetaxel,USA,North America,PharmaCorp,248418,447,13.4,90.0
+2024-10-31,2024-10,Docetaxel,Germany,EU,MedSupply Global,118547,323,31.8,88.8
+2024-10-31,2024-10,Docetaxel,Brazil,LATAM,GlobalMeds,167960,342,16.3,88.4
+2024-10-31,2024-10,Docetaxel,India,APAC,MedSupply Global,189869,659,16.7,97.3
+2024-10-31,2024-10,Docetaxel,UK,EU,GlobalMeds,109516,406,17.2,98.4
+2024-10-31,2024-10,Propofol,USA,North America,LifeCare Distributors,102746,606,15.4,92.5
+2024-10-31,2024-10,Propofol,Germany,EU,PharmaCorp,213669,341,29.3,94.3
+2024-10-31,2024-10,Propofol,Brazil,LATAM,LifeCare Distributors,92109,706,20.5,88.5
+2024-10-31,2024-10,Propofol,India,APAC,GlobalMeds,141709,353,31.3,89.5
+2024-10-31,2024-10,Propofol,UK,EU,MedSupply Global,95282,625,26.0,97.7
+2024-10-31,2024-10,Bortezomib,USA,North America,MedSupply Global,108365,262,23.2,95.2
+2024-10-31,2024-10,Bortezomib,Germany,EU,MedSupply Global,196219,597,16.4,89.4
+2024-10-31,2024-10,Bortezomib,Brazil,LATAM,GlobalMeds,242727,664,16.8,88.1
+2024-10-31,2024-10,Bortezomib,India,APAC,GlobalMeds,144307,288,28.5,88.9
+2024-10-31,2024-10,Bortezomib,UK,EU,MedSupply Global,172493,421,24.0,88.7
+2024-10-31,2024-10,Anastrozole,USA,North America,GlobalMeds,208775,713,25.4,94.8
+2024-10-31,2024-10,Anastrozole,Germany,EU,MedSupply Global,143095,326,24.5,94.1
+2024-10-31,2024-10,Anastrozole,Brazil,LATAM,PharmaCorp,177136,631,12.7,94.7
+2024-10-31,2024-10,Anastrozole,India,APAC,GlobalMeds,240237,761,23.5,95.6
+2024-10-31,2024-10,Anastrozole,UK,EU,GlobalMeds,138643,400,30.2,95.7
+2024-10-31,2024-10,Carboplatin,USA,North America,MedSupply Global,129879,679,23.4,94.0
+2024-10-31,2024-10,Carboplatin,Germany,EU,LifeCare Distributors,217653,787,21.3,89.6
+2024-10-31,2024-10,Carboplatin,Brazil,LATAM,LifeCare Distributors,106649,605,24.1,95.3
+2024-10-31,2024-10,Carboplatin,India,APAC,GlobalMeds,158002,331,25.5,89.5
+2024-10-31,2024-10,Carboplatin,UK,EU,GlobalMeds,110795,778,25.0,98.9
+2024-11-30,2024-11,Docetaxel,USA,North America,PharmaCorp,91190,560,22.1,95.3
+2024-11-30,2024-11,Docetaxel,Germany,EU,PharmaCorp,82261,772,21.4,88.5
+2024-11-30,2024-11,Docetaxel,Brazil,LATAM,GlobalMeds,192082,579,21.4,93.2
+2024-11-30,2024-11,Docetaxel,India,APAC,MedSupply Global,175074,623,21.4,93.1
+2024-11-30,2024-11,Docetaxel,UK,EU,GlobalMeds,176055,248,12.2,90.5
+2024-11-30,2024-11,Propofol,USA,North America,LifeCare Distributors,176038,540,20.8,90.5
+2024-11-30,2024-11,Propofol,Germany,EU,PharmaCorp,216554,581,17.6,97.4
+2024-11-30,2024-11,Propofol,Brazil,LATAM,MedSupply Global,84648,728,14.3,92.0
+2024-11-30,2024-11,Propofol,India,APAC,LifeCare Distributors,129334,240,12.6,95.8
+2024-11-30,2024-11,Propofol,UK,EU,PharmaCorp,161554,532,30.6,89.9
+2024-11-30,2024-11,Bortezomib,USA,North America,GlobalMeds,141035,218,20.2,98.4
+2024-11-30,2024-11,Bortezomib,Germany,EU,MedSupply Global,233504,500,26.4,99.0
+2024-11-30,2024-11,Bortezomib,Brazil,LATAM,MedSupply Global,248455,352,24.7,88.6
+2024-11-30,2024-11,Bortezomib,India,APAC,MedSupply Global,146262,523,19.7,93.2
+2024-11-30,2024-11,Bortezomib,UK,EU,PharmaCorp,114542,611,23.0,98.4
+2024-11-30,2024-11,Anastrozole,USA,North America,GlobalMeds,235378,240,30.8,95.7
+2024-11-30,2024-11,Anastrozole,Germany,EU,MedSupply Global,194889,649,29.8,94.9
+2024-11-30,2024-11,Anastrozole,Brazil,LATAM,PharmaCorp,150194,317,14.3,89.8
+2024-11-30,2024-11,Anastrozole,India,APAC,LifeCare Distributors,230611,653,14.4,98.4
+2024-11-30,2024-11,Anastrozole,UK,EU,PharmaCorp,244226,549,14.8,88.1
+2024-11-30,2024-11,Carboplatin,USA,North America,PharmaCorp,174475,618,21.0,89.0
+2024-11-30,2024-11,Carboplatin,Germany,EU,LifeCare Distributors,242777,556,14.5,94.4
+2024-11-30,2024-11,Carboplatin,Brazil,LATAM,LifeCare Distributors,130583,704,13.3,92.5
+2024-11-30,2024-11,Carboplatin,India,APAC,LifeCare Distributors,201251,628,17.5,91.5
+2024-11-30,2024-11,Carboplatin,UK,EU,PharmaCorp,142493,387,16.5,92.4
+2024-12-31,2024-12,Docetaxel,USA,North America,LifeCare Distributors,159003,371,30.3,93.0
+2024-12-31,2024-12,Docetaxel,Germany,EU,GlobalMeds,95434,759,12.2,92.3
+2024-12-31,2024-12,Docetaxel,Brazil,LATAM,PharmaCorp,163555,579,25.8,92.3
+2024-12-31,2024-12,Docetaxel,India,APAC,GlobalMeds,148803,620,29.8,92.0
+2024-12-31,2024-12,Docetaxel,UK,EU,GlobalMeds,197961,643,19.6,88.1
+2024-12-31,2024-12,Propofol,USA,North America,LifeCare Distributors,222810,325,23.9,89.2
+2024-12-31,2024-12,Propofol,Germany,EU,GlobalMeds,102852,591,19.3,90.5
+2024-12-31,2024-12,Propofol,Brazil,LATAM,GlobalMeds,175040,230,25.8,89.6
+2024-12-31,2024-12,Propofol,India,APAC,MedSupply Global,218141,575,31.5,94.1
+2024-12-31,2024-12,Propofol,UK,EU,MedSupply Global,87597,562,19.8,89.8
+2024-12-31,2024-12,Bortezomib,USA,North America,PharmaCorp,229765,324,21.2,91.3
+2024-12-31,2024-12,Bortezomib,Germany,EU,MedSupply Global,213241,324,19.4,92.3
+2024-12-31,2024-12,Bortezomib,Brazil,LATAM,LifeCare Distributors,238806,400,31.7,91.3
+2024-12-31,2024-12,Bortezomib,India,APAC,LifeCare Distributors,226045,699,12.6,99.2
+2024-12-31,2024-12,Bortezomib,UK,EU,PharmaCorp,190659,268,15.1,94.4
+2024-12-31,2024-12,Anastrozole,USA,North America,PharmaCorp,88556,578,28.8,92.1
+2024-12-31,2024-12,Anastrozole,Germany,EU,PharmaCorp,206060,762,15.5,93.8
+2024-12-31,2024-12,Anastrozole,Brazil,LATAM,LifeCare Distributors,80138,558,22.9,89.9
+2024-12-31,2024-12,Anastrozole,India,APAC,LifeCare Distributors,236951,682,15.0,97.4
+2024-12-31,2024-12,Anastrozole,UK,EU,GlobalMeds,135568,298,29.6,95.2
+2024-12-31,2024-12,Carboplatin,USA,North America,MedSupply Global,164754,364,26.6,89.7
+2024-12-31,2024-12,Carboplatin,Germany,EU,MedSupply Global,170768,363,30.1,89.5
+2024-12-31,2024-12,Carboplatin,Brazil,LATAM,LifeCare Distributors,212212,466,19.1,93.3
+2024-12-31,2024-12,Carboplatin,India,APAC,PharmaCorp,239380,594,23.0,88.7
+2024-12-31,2024-12,Carboplatin,UK,EU,GlobalMeds,126099,757,12.7,99.2

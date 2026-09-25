@@ -1,0 +1,21 @@
+Hospital,Region,Patient_Volume,Oncology_Drug_Usage,Satisfaction_Score
+Hospital 1,EU,282,729,4.7
+Hospital 2,EU,1346,330,4.3
+Hospital 3,APAC,557,664,4.5
+Hospital 4,North America,1289,420,4.3
+Hospital 5,North America,1135,332,4.2
+Hospital 6,APAC,574,769,3.9
+Hospital 7,LATAM,361,536,4.0
+Hospital 8,EU,1411,632,3.9
+Hospital 9,North America,521,502,4.3
+Hospital 10,EU,649,152,3.7
+Hospital 11,APAC,1236,412,4.9
+Hospital 12,LATAM,383,380,4.6
+Hospital 13,LATAM,310,130,4.1
+Hospital 14,LATAM,707,436,3.7
+Hospital 15,APAC,494,282,4.8
+Hospital 16,EU,1103,122,4.7
+Hospital 17,EU,1438,643,4.6
+Hospital 18,EU,1173,545,3.9
+Hospital 19,EU,831,173,4.1
+Hospital 20,EU,1250,109,3.7
