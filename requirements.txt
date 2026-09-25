@@ -1,6 +1,0 @@
-streamlit
-pandas
-duckdb
-plotly
-openai
-python-dotenv
